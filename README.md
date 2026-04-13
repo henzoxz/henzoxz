@@ -7,13 +7,6 @@
 
  ✨ Aqui você vai encontrar meus projetos, experimentos, estudos e a minha evolução no mundo da programação.
 
- ## 📊 Estatísticas do GitHub
-
-![Henzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=henzoxz&show_icons=true&theme=github_dark&hide_border=true)
-
-## 🔥 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henzoxz&layout=donut&theme=github_dark&hide_border=true)
 
 <div> 
   <a href="https://instagram.com/_.henzowx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
