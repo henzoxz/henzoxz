@@ -10,7 +10,9 @@
 
 <div> 
   <a href="https://instagram.com/_.henzowx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "henzomag2009@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "henzomag2009@gmail.com"><img src="[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)"></a>
+  <a href = "https://www.linkedin.com/in/henzo-fontenele-41a283328/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
 </div>
 
 <div style="display: inline_block"><br>
