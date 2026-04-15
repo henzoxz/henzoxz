@@ -24,7 +24,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="40" height="40" alt="NetBeans" /></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" width="40" height="40" alt="FireBase" /></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" width="40" height="40" alt="ArchLinux" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /></td>
   </tr>
 </table>
 
