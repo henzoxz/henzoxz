@@ -2,7 +2,6 @@
 
 - 📚 Estudante de Técnico em Desenvolvimento de Sistemas na EEEP Professor Sebastião Vasconcelos Sobrinho
 - 🚀 Sempre buscando aprender novas ferramentas e transformar ideias em projetos reais
-- 🛠️ Tecnologias que estou aprendendo: HTML, CSS, JavaScript, Python, Java e Bancos de Dados (MySQL / SQL Server)
 - 🎯 Meus objetivos: Evoluir constantemente como desenvolvedor e Construir soluções inovadoras que unam tecnologia + criatividade
 
  ✨ Aqui você vai encontrar meus projetos, experimentos, estudos e a minha evolução no mundo da programação.
@@ -15,20 +14,19 @@
   
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="MYSQL" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Dart" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain-wordmark.svg">
-  <img align="center" alt="Flutter" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Figma" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Vscode" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Figma" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/netbeans/netbeans-original.svg">
-
-</div>
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="40" height="40" alt="NetBeans" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" width="40" height="40" alt="FireBase" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" width="40" height="40" alt="ArchLinux" /></td>
+  </tr>
+</table>
 
 
 
